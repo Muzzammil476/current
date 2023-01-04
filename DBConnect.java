@@ -5,6 +5,8 @@ metadata:
    namespace: test-ns
 spec:
  type: ClusterIP
+ selector:
+   apps: javapps
  port:
   port: 80
 
