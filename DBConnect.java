@@ -8,6 +8,6 @@ spec:
  selector:
    apps: javapps
  port:
-  port: 80
+  port: 8080
 
 
