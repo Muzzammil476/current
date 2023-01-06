@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hjnjnnjjhgjhghghjghjn
 
 ihjnjnnj
@@ -9,7 +9,9 @@ we will update
 ihjnjnnj
 this line is updated in dev branchn
 
-=======
+hjnjnnj
+this line is updated in dev branchn
+
 ihjnjnnj
 this line is updated in dev branchn
->>>>>>> 466d929 (updated in dev branch)
+
